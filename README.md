@@ -16,6 +16,8 @@ Conheça nosso site: [teomewhy.org](https://teomewhy.org/schedule)
 
 Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 
+Data Science (Ciência de Dados) é um campo multidisciplinar que combina estatística, matemática, programação e IA para extrair insights valiosos de grandes volumes de dados (estruturados ou não). O objetivo principal é transformar dados brutos em conhecimento acionável para apoiar decisões estratégicas e aumentar a eficiência de negócios.
+
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova-branch>
